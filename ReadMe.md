@@ -16,3 +16,6 @@ Once the package.json file is created, we can install Gulp into the project by u
 $ npm install gulp --save-dev
 
 # Gulp-BoilerPlate
+
+1-RUN gulp watch
+2-RUN gulp bs
