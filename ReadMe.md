@@ -14,5 +14,5 @@ npm init
 Once the package.json file is created, we can install Gulp into the project by using the following command:
 
 $ npm install gulp --save-dev
-# Gulp-BoilerPlate
+
 # Gulp-BoilerPlate
